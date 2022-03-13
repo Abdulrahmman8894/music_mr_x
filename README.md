@@ -30,7 +30,6 @@
 - /rmw - to clean storage
 - /rmd - to clean download sotrage
 
-[![GenerateStringName](https://replit.com/@TM-4/CodeMusic?lite=1&outputonly=1)](https://t.me/Decode_String_bot)
 
 <h2 align="center">
    Deploy
