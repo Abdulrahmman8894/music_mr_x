@@ -1,15 +1,15 @@
 {
-    "name": "RaiChu Music Bot",
+    "name": "MUSTAR_X Music Bot",
     "description": "Telegram bot for Streaming  Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
-    "logo": "https://telegra.ph/file/1c41ded2dd871eb36bd7e.png",
+    "logo": "https://telegra.ph/file/8db7649c346a473b549d9.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
         "pyrogram"
     ],
-    "website": "https://t.me/music_Desha",
-    "repository": "https://github.com/MostafaShalaby1/source-maha",
-    "success_url": "https://t.me/music_Desha1",
+    "website": "https://t.me/SULTAN1_1B",
+    "repository": "https://github.com/Abdulrahmman8894/music_mr_x",
+    "success_url": "https://t.me/MR_X_N_2",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
@@ -46,12 +46,12 @@
         "GROUP_SUPPORT": {
             "description": "if you have group, then fill the group username here without @",
             "required": false,
-            "value": "music_Desha"
+            "value": "music_MUSTAR_X"
         },
         "UPDATES_CHANNEL": {
             "description": "if you have channel, then fill the channel username here without @",
             "required": false,
-            "value": "music_Desha1"
+            "value": "music_MUSTAR_X"
         },
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
@@ -61,7 +61,7 @@
         "ALIVE_NAME": {
             "description": "fill with your telegram account nickname/name",
             "required": false,
-            "value": "RaiChuXMusic"
+            "value": "MUSTAR_XMusic"
         }
     },
     "addons": [],
