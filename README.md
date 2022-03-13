@@ -30,9 +30,7 @@
 - /rmw - to clean storage
 - /rmd - to clean download sotrage
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)]
-
-(https://replit.com/@TM-4/CodeMusic?lite=1&outputonly=1) ``Pyrogram``
+[![GenerateStringName](https://replit.com/@TM-4/CodeMusic?lite=1&outputonly=1)](https://t.me/Decode_String_bot)
 
 <h2 align="center">
    Deploy
