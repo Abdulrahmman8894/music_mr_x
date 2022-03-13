@@ -1,7 +1,7 @@
 <h2 align="centre">Bot duniya Music Player</h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/81f7fe75e4e487651402b.jpg">
+  <img src="https://telegra.ph/file/ccb4621de8175508fecd1.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
@@ -31,7 +31,7 @@
 - /rmd - to clean download sotrage
 
 ## String Session :
-[![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-white)](https://t.me/Decode_String_bot)
+[![GenerateStringName](https://img.shields.iobadge/repl.it-generateStringName-white)](https://t.me/Decode_String_bot)
 
 
 <h2 align="center">
@@ -39,16 +39,16 @@
 </h2>
 
 <p align="center">
-<a href="https://heroku.com/deploy?template=https://github.com/MostafaShalaby1/source-maha"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
+<a href="https://heroku.com/deploy?template=https://github.com/Abdulrahmman8894/music_mr_x"><img src="https://img.shields.io/badge/Deploy%20Ke%20Heroku-black?style=flat&logo=heroku" width="250""/</a>  
 
 # Credits
 - callmusic 
 - PyTgCalls
 
 #### Special Credits
-- [𝑫𝑬𝑺𝑯𝑨](https://t.me/DeshaXBlacck)
-- [𝑴𝑨𝑯𝑨](https://t.me/U_A_DI)
-- [𝑭𝑨𝑾𝒁𝒀](https://t.me/U_K_G)
+- [𝑀𝑅_𝑋](https://t.me/MR_X_N)
+- [𝐴𝐵𝐷𝑈𝐿𝐿𝐴𝐻](https://t.me/MR_X_N3)
+- [𝑀𝑂𝐻𝐴𝑀𝑀𝐸𝐷](https://t.me/MR_X_N2)
 
 ### Support & Updates 
-<a href="https://t.me/music_Desha"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/music_Desha1"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/SULTAN1_1B"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/MR_X_N_2"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
